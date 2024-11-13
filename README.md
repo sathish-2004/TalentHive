@@ -1,7 +1,3 @@
-Here's a README template for your GitHub project:
-
----
-
 # Freelancing Website - TalentHive
 
 TalentHive is a dynamic freelancing platform built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. This project enables clients to post projects with budgets and requirements, while freelancers can submit proposals, complete projects, and receive payment upon approval from the client.
