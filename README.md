@@ -36,7 +36,7 @@ TalentHive is a dynamic freelancing platform built using the MERN (MongoDB, Expr
 1. **Clone the repository:**
    ```
    git clone https://github.com/sathish-2004/TalentHive.git
-   cd freelancing-website
+   cd TalentHive
    ```
 
 2. **Install server dependencies:**
