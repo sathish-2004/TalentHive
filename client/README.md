@@ -1,6 +1,6 @@
 ## TalentHive - Client
 
-This directory contains the frontend part of the DRIBBBLE freelancing platform, developed using React.js. The client application is responsible for delivering an intuitive and responsive user interface for both clients and freelancers.
+This directory contains the frontend part of the TalentHive freelancing platform, developed using React.js. The client application is responsible for delivering an intuitive and responsive user interface for both clients and freelancers.
 
 Installation and Setup
 
